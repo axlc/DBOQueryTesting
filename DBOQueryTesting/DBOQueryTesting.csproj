@@ -35,7 +35,7 @@
   <ItemGroup>
     <Reference Include="A2 Reg-A-Lot 2017 DBOQuery, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\Repos\A2s-Reg-A-Lot\A2 Reg-A-Lot 2017 DBOQuery\bin\Debug\A2 Reg-A-Lot 2017 DBOQuery.dll</HintPath>
+      <HintPath>..\..\A2s-Reg-A-Lot\A2 Reg-A-Lot 2017 DBOQuery\bin\Debug\A2 Reg-A-Lot 2017 DBOQuery.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
